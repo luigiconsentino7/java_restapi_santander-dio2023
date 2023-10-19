@@ -1,6 +1,6 @@
-package me.javarestapi.domain.repository;
+package me.myproject.domain.repository;
 
-import me.javarestapi.domain.model.User;
+import me.myproject.domain.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

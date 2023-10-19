@@ -1,4 +1,4 @@
-package me.javarestapi.domain.model;
+package me.myproject.domain.model;
 
 import jakarta.persistence.*;
 
